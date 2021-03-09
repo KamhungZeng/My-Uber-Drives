@@ -38,10 +38,18 @@ END*：结束位置
 MILES*：里程  
 PURPOSE*：出行目的  
 
-文件名：`My Uber Drives - 2016.csv`
+文件名：  
+`My Uber Drives - 2016.csv`
 
 ## 业务指标
 
 在进行数据分析之前，先要了解相关业务指标，以便更有针对性地进行数据分析，更有利于驱动产品精细化运营/用户的增长。
 
 ![image](网约车出行相关指标.png)
+
+## 数据分析
+
+根据上述的数据分析流程，对Uber运营情况进行分析，进一步了解网约汽车出行行业  
+
+[数据集①数据分析详细](https://github.com/Kam-hung/My-Uber-Drives/blob/297b5a01f780ef08f07be9187bfd03542248a303/uber_2014%20data%20analysis.ipynb)  
+[数据集②数据分析详细](https://github.com/Kam-hung/My-Uber-Drives/blob/f79650c933028aa5f8e81c2f09f671579f1fcd03/uber_2016%20data%20analysis.ipynb)
