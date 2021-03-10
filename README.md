@@ -33,7 +33,7 @@ Base：与Uber接单相关的TLC基本公司代码
 2016年的Uber行程数据，按月分隔，提供地理位置（USA, Sri Lanka and Pakistan）
 
 START_DATE*：Uber接单开始日期时间  
-END_DATE*：Uber接单开始日期时间  
+END_DATE*：Uber接单结束日期时间  
 CATEGORY*：出行类型  
 START*：起始位置  
 END*：结束位置  
